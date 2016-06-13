@@ -8,6 +8,7 @@
 
 ## System operation and maintainence
  - [Site Reliability Engineering by google](https://www.safaribooksonline.com/library/view/site-reliability-engineering/9781491929117/ch05.html)
+   - [Reading note](notes/Site Reliability Engineering.md)
  - *TODO* [How google test software](https://www.safaribooksonline.com/library/view/how-google-tests/9780132851572/ch01.html)
 
 ## Management
@@ -30,4 +31,4 @@
  - [Forensic Psychology: A Very Short Introduction](https://www.amazon.com/gp/product/B005OQGCKW)
    - Not so interesting. It talked about the role of psychology in the court. There are some discussion about "What if a men is mentally disordered? How to determine that?" is interesting. And some fact about "criminal mental help" is also interesting. It turns out criminal might find a way to pretend to be "healed" during the community helping group.
  - [Leadership: A Very Short Introduction](https://www.amazon.com/gp/product/B005E8356O/)
-   - Still reading.
+   - [Reading note](notes/Leadership: A Very Short Introduction.md)
