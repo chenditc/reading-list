@@ -22,5 +22,7 @@
  - [Emotion: A Very Short Introduction](https://www.amazon.com/gp/product/B003CQIARY/)
    - Cool book. It provides insight regarding "What is emotion? Why do we have emotion? Is it good or bad?". After reading this, it helps me control my emotion because I can sometimes intentify what emotion is helpful for me. 
    - Eg. Angry is helpful when you think about the social activity as a infinite recurring game, but not so helpful if you are with people that won't appear in your life again. Why? Read the book.
+ - [Forensic Psychology: A Very Short Introduction](https://www.amazon.com/gp/product/B005OQGCKW)
+   - Not so interesting. It talked about the role of psychology in the court. There are some discussion about "What if a men is mentally disordered? How to determine that?" is interesting. And some fact about "criminal mental help" is also interesting. It turns out criminal might find a way to pretend to be "healed" during the community helping group.
  - [Leadership: A Very Short Introduction](https://www.amazon.com/gp/product/B005E8356O/)
    - Still reading.
