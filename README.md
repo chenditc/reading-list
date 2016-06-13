@@ -7,7 +7,7 @@
    - Provided some general guidance to create fast web site.
 
 ## System operation and maintainence
- - [Site Reliability Engineering by google](https://www.safaribooksonline.com/library/view/site-reliability-engineering/9781491929117/)
+ - [Site Reliability Engineering by google](https://www.safaribooksonline.com/library/view/site-reliability-engineering/9781491929117/ch05.html)
  - *TODO* [How google test software](https://www.safaribooksonline.com/library/view/how-google-tests/9780132851572/ch01.html)
 
 ## Management
