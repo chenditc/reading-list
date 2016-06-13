@@ -1,14 +1,17 @@
 # reading-list
 
 ## Web Application
- - [google Web Developer Guide](https://developers.google.com/web/)
- - [google Web Developement Fundamentals](https://developers.google.com/web/fundamentals/)
- - [google page speed insight](https://developers.google.com/speed/docs/insights/about)
+ - *TODO* [google Web Developer Guide](https://developers.google.com/web/)
+ - *TODO* [google Web Developement Fundamentals](https://developers.google.com/web/fundamentals/)
+ - *TODO* [google page speed insight](https://developers.google.com/speed/docs/insights/about)
    - Provided some general guidance to create fast web site.
 
 ## System operation and maintainence
  - [Site Reliability Engineering by google](https://www.safaribooksonline.com/library/view/site-reliability-engineering/9781491929117/)
- - [How google test software](https://www.safaribooksonline.com/library/view/how-google-tests/9780132851572/ch01.html)
+ - *TODO* [How google test software](https://www.safaribooksonline.com/library/view/how-google-tests/9780132851572/ch01.html)
+
+## Management
+ - *TODO* [VangoNotes for Introduction to Management Accounting](http://www.audible.com/pd/Students/B003NH4QAM)
 
 ## Others
  - [The Millionaire Fastlane: Crack the Code to Wealth and Live Rich for a Lifetime](https://www.amazon.com/gp/product/B004BDOUAI/ref=kinw_myk_ro_title)
