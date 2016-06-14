@@ -9,3 +9,9 @@ Book:
  - Two management pattern:
    1. Manage by heoric leader personality
    2. Manage by systematic process.
+ - Is leader born or bred?
+   - No agreed conclusion.
+   - Two example:
+     1. Hitler. Not famous when young, but deterministic
+     2. Stalin. Famous when young.
+ - Leadership might be borned, aka build into our gene. Proof: leadership among animals.
