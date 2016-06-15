@@ -15,3 +15,10 @@ Book:
      1. Hitler. Not famous when young, but deterministic
      2. Stalin. Famous when young.
  - Leadership might be borned, aka build into our gene. Proof: leadership among animals.
+
+06/15:
+ - Follower teaches leader.
+  - Like how children teach parent, the feedback from follower teaches leader. 
+  - Leader like hear "yes", but the "yes" suggestion might not be useful.（忠言逆耳利于行）
+  - Leadership experience come from failure, experience prevent future failure. So leader should be put in a risky environemtn, so that he can fail and learn.
+  - Organization should provide a environment that's difficult / risky for leader, but not too risky, so that no catastrophic failure can occur.
