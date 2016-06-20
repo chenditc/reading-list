@@ -22,3 +22,17 @@ Book:
   - Leader like hear "yes", but the "yes" suggestion might not be useful.（忠言逆耳利于行）
   - Leadership experience come from failure, experience prevent future failure. So leader should be put in a risky environemtn, so that he can fail and learn.
   - Organization should provide a environment that's difficult / risky for leader, but not too risky, so that no catastrophic failure can occur.
+
+06/19:
+ - Leadership is a relationship. If no follower follow the leader, the leadership means nothing.
+
+06/20:
+ - How does leader leads?
+  - There are two dimensions:
+    1. Follower oriented. 
+      - By having a good relationship with followers, follower will be productive even leader is not present.
+    2. Production oriented.
+      - By making a clear process and make task clear, follower will be more productive when leader is present, but not productive when leader is not present.
+  - Leadership style depends on follower style, for different follower, different leadership stype works differently. (因材施教）
+    - For the followers that's enthusiastic, give the general goal and build a good relationship.
+    - For the followers that just do the work blindly, give clear instruction and task specification.
