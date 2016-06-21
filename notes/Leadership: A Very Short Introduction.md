@@ -39,3 +39,10 @@ Book:
  - Good follower:
   - **Independent**: They think independently from leader, so that they can remedy leader's weakness.
   - **Loyal** to organization: They think from the organization's point, their action will benefit the organization in the long term.
+
+06/21:
+ - Why do we need leaders?
+  - Heoric Leadership vs Collaborative Leadership:
+    - Heoric leadership might not be good for the organization, because it cannot last very long. Eg. 毛泽东，斯大林，希特勒，乔布斯
+    - Collaborative Leadership can last longer and transform follower to leader. Eg. Leader help follower to better achieve the goal of community, which in turn help follower grow to leader.
+ 
