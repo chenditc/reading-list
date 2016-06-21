@@ -36,3 +36,6 @@ Book:
   - Leadership style depends on follower style, for different follower, different leadership stype works differently. (因材施教）
     - For the followers that's enthusiastic, give the general goal and build a good relationship.
     - For the followers that just do the work blindly, give clear instruction and task specification.
+ - Good follower:
+  - **Independent**: They think independently from leader, so that they can remedy leader's weakness.
+  - **Loyal** to organization: They think from the organization's point, their action will benefit the organization in the long term.
