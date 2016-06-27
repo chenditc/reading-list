@@ -12,7 +12,8 @@
  - *TODO* [How google test software](https://www.safaribooksonline.com/library/view/how-google-tests/9780132851572/ch01.html)
 
 ## Management
- - *TODO* [VangoNotes for Introduction to Management Accounting](http://www.audible.com/pd/Students/B003NH4QAM)
+ - *READING* [VangoNotes for Introduction to Management Accounting](http://www.audible.com/pd/Students/B003NH4QAM)
+   - [Reading note](notes/Introduction to Management Accounting.md)
 
 ## Others
  - [The Millionaire Fastlane: Crack the Code to Wealth and Live Rich for a Lifetime](https://www.amazon.com/gp/product/B004BDOUAI/ref=kinw_myk_ro_title)
