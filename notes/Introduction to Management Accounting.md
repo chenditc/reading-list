@@ -7,3 +7,5 @@
  - Employee who earn wage is considered variate cost and employee who earn salary is considered fixed cost.
  - Change wage to salary can sometime reduce the cost because no over time fee needs to be paid.
 
+- **management by exception(MBE)** vs **management by objectives(MBO)**
+ - MBE is focusing on the mismatch between plan and final report. Try to find out wher the discrepancy from and improve from there. The part that match between plan and final report is ignored.
