@@ -9,3 +9,9 @@
 
 - **management by exception(MBE)** vs **management by objectives(MBO)**
  - MBE is focusing on the mismatch between plan and final report. Try to find out wher the discrepancy from and improve from there. The part that match between plan and final report is ignored.
+
+##### 07/06:
+ - Customer cost. 
+  - Some customer require low service cost, eg. Put large amount of order, have few return order etc. 
+  - Some customer require hight service cost, eg. Put small amount of order, asking customized delivery, have high return rate.
+  - low service cost customer is prefered, but discriminative pricing is illegal?
