@@ -33,3 +33,5 @@
    - Not so interesting. It talked about the role of psychology in the court. There are some discussion about "What if a men is mentally disordered? How to determine that?" is interesting. And some fact about "criminal mental help" is also interesting. It turns out criminal might find a way to pretend to be "healed" during the community helping group.
  - [Leadership: A Very Short Introduction](https://www.amazon.com/gp/product/B005E8356O/)
    - [Reading note](notes/Leadership: A Very Short Introduction.md)
+ - [Management: A Very Short Introduction](https://www.amazon.com/gp/product/B00FFZ73L4/)
+   - [Reading note](notes/Management-A Very Short Introduction)
