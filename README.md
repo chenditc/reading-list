@@ -34,4 +34,4 @@
  - [Leadership: A Very Short Introduction](https://www.amazon.com/gp/product/B005E8356O/)
    - [Reading note](notes/Leadership: A Very Short Introduction.md)
  - [Management: A Very Short Introduction](https://www.amazon.com/gp/product/B00FFZ73L4/)
-   - [Reading note](notes/Management-A Very Short Introduction)
+   - [Reading note](notes/Management-A Very Short Introduction.md)
